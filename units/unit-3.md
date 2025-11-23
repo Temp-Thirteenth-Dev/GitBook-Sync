@@ -1,4 +1,4 @@
-# Unit3
+# Unit 3
 
 ## Wireless Technological Applications
 
@@ -243,6 +243,18 @@ The intense debate between TDMA and CDMA highlights their key differences:
 | **FDMA**  | Frequency        | Separate dining tables           | Parallel but separate channels               |
 | **TDMA**  | Time             | Same table, different time slots | Time-sharing                                 |
 | **CDMA**  | Code             | Same hall, different languages   | Code-based sharing & interference resistance |
+
+Here’s a short, simple explanation of the analogy, &#x20;
+
+**The Dining Hall:**
+
+* **FDMA (Frequency Division):** Like people sitting at **different dining tables**, each group gets its own table (frequency). They can all talk **at the same time** without disturbing each other.
+* **TDMA (Time Division):** Like people **sharing one table but booking at different times**. Everyone waits for their turn (time slot), so no one talks over someone else.
+* **CDMA (Code Division):** Like many people in the **same hall speaking different languages**. Even though everyone talks at the same time and place, each listener understands only their chosen language (code), making the conversations separable.
+
+Let me know if you want it even shorter or in one sentence!
+
+
 
 !\[\[/Attachments of Obsidian Notes'/Unit3-1763903866560.webp]]
 
