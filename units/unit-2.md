@@ -214,6 +214,9 @@ Common implementations include commercial SSH, OpenSSH, PuTTY for Windows platfo
 
 * **Terminal Access and File Transfer:** SSH is most commonly used to replace insecure protocols like **Telnet**, which can be easily sniffed, hijacked, or subject to data injection. When properly implemented, SSH eliminates these security concerns. It also includes the capability to transfer files securely, replacing protocols like FTP, TFTP, and CIFS.
 * **Port Forwarding (Tunneling):** This feature allows SSH to secure otherwise insecure applications such as Telnet, FTP, POP, or HTTP. This is accomplished by creating an SSH tunnel that forwards the traffic over the insecure network to the SSH server, which then sends the packets to the final destination (like an email server). This technique may be used by legitimate users or malicious attackers to **bypass firewall rules**.
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * **Device Management:** SSH is recommended for managing network devices (such as access points) instead of cleartext protocols like Telnet or unencrypted HTTP and SNMP.
 
 #### Security Considerations (MITM Attacks)
